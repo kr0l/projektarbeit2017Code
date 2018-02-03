@@ -1,2 +1,2 @@
 # Code meiner Jahresarbeit 2017
-In diesem Reposetory befindet sich der arduinocode, welchen ich im rahmen meiner Projektarbeit geschrieben habe.
+In diesem Repository befindet sich der Arduinocode, welchen ich im Rahmen meiner Projektarbeit geschrieben habe.
